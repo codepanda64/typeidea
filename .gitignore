@@ -1,3 +1,5 @@
+.vscode
+launch.json
 *.sqlite3
 *.code-workspace
 # Byte-compiled / optimized / DLL files

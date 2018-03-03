@@ -13,3 +13,5 @@ django = "==2.0"
 [dev-packages]
 
 pylint = "*"
+pylint-django = "*"
+"autopep8" = "*"
